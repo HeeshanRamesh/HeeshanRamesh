@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeeshanRamesh
-- 👀 I’m interested in project management
+- 👀 I’m interested in Mobile App Devolopment
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me heeshanramesh@gmail.com
 - 😄 Pronouns: he/him
